@@ -40,7 +40,7 @@ This script can be used to create new events based on a list of dates in plainte
 
 Given a travel itinerary in .yaml format, creates entries in a Google Calendar with departure and arrival times in local timezones.
 
-It uses the [airport_timezone.tsv](https://github.com/Christophe-Gauge/Google-Calendar/blob/main/airport_timezone.tsv) Airport data file, which is included in this repository and is extracted from the [opentraveldata])https://github.com/opentraveldata/opentraveldata) data using [get_airports_timezone.py](https://github.com/Christophe-Gauge/Google-Calendar/blob/main/get_airports_timezone.py). The file contains the three letter IATA codes, the full name, and the timezone for the world's airports.
+It uses the [airport_timezone.tsv](https://github.com/Christophe-Gauge/Google-Calendar/blob/main/airport_timezone.tsv) Airport data file, which is included in this repository and is extracted from the [opentraveldata](https://github.com/opentraveldata/opentraveldata) data using [get_airports_timezone.py](https://github.com/Christophe-Gauge/Google-Calendar/blob/main/get_airports_timezone.py). The file contains the three letter IATA codes, the full name, and the timezone for the world's airports.
 
 
 
