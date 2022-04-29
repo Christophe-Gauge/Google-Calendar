@@ -1,12 +1,14 @@
 # Google-Calendar
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
-Useful Python scripts using Google Calendar.
+> Useful Python scripts using Google Calendar.
 
 
 
 All of these scripts assume that the Google Calendar libraries are installed and configured:
-```pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib```
+```
+pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+```
 
 They also assume that you have your Google Calendar API credentials stored in a file named `credentials.json` in the local directory.
 
