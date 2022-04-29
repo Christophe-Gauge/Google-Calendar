@@ -6,7 +6,7 @@ Useful Python scripts using Google Calendar.
 
 
 All of these scripts assume that the Google Calendar libraries are installed and configured:
-`pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib`
+```pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib```
 
 They also assume that you have your Google Calendar API credentials stored in a file named `credentials.json` in the local directory.
 
@@ -40,7 +40,7 @@ This script can be used to create new events based on a list of dates in plainte
 
 Given a travel itinerary in .yaml format, creates entries in a Google Calendar with departure and arrival times in local timezones.
 
-It uses the [airport_timezone.tsv](https://github.com/Christophe-Gauge/Google-Calendar/blob/main/airport_timezone.tsv) Airport data file, which is included in this repository and is extracted from the (opentraveldata)[https://github.com/opentraveldata/opentraveldata] data using [get_airports_timezone.py](https://github.com/Christophe-Gauge/Google-Calendar/blob/main/get_airports_timezone.py). The file contains the three letter IATA codes, the full name, and the timezone for the world's airport's.
+It uses the [airport_timezone.tsv](https://github.com/Christophe-Gauge/Google-Calendar/blob/main/airport_timezone.tsv) Airport data file, which is included in this repository and is extracted from the [opentraveldata])https://github.com/opentraveldata/opentraveldata) data using [get_airports_timezone.py](https://github.com/Christophe-Gauge/Google-Calendar/blob/main/get_airports_timezone.py). The file contains the three letter IATA codes, the full name, and the timezone for the world's airports.
 
 
 
