@@ -16,6 +16,8 @@ The following Python libraries are also needed in order to properly deal with ti
 ```
 pip3 install pytz
 pip3 install get_localzone
+pip3 install python-dateutil
+pip3 install tzlocal 
 ```
 
 
