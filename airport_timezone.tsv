@@ -1326,7 +1326,7 @@ CEF	Westover Air Reserve Base / Metropolitan Airport	America/New_York
 CEG	Hawarden	Europe/London
 CEH	Chelinda Airport	Africa/Blantyre
 CEI	Mae Fah Luang-Chiang Rai International Airport	Asia/Bangkok
-CEJ	Chernihiv Air Base	Europe/Kiev
+CEJ	Chernihiv Air Base	Europe/Kyiv
 CEK	Chelyabinsk Airport	Asia/Yekaterinburg
 CEL	Cape Eleuthera Airport	America/Nassau
 CEM	Central	America/Anchorage
@@ -1450,12 +1450,12 @@ CJJ	Cheongju International Airport	Asia/Seoul
 CJL	Chitral Airfield	Asia/Karachi
 CJM	Chumphon Airport	Asia/Bangkok
 CJN	Cijulang Nusawiru Airport	Asia/Jakarta
-CJS	Abraham González International Airport	America/Ojinaga
+CJS	Abraham González International Airport	America/Ciudad_Juarez
 CJT	Comitán Copalar Airport	America/Mexico_City
 CJU	Jeju International Airport	Asia/Seoul
 CKA	Kegelman Air Force Auxiliary Field	America/Chicago
 CKB	Clarksburg	America/New_York
-CKC	Cherkasy International Airport	Europe/Kiev
+CKC	Cherkasy International Airport	Europe/Kyiv
 CKD	Crooked Creek Airport	America/Anchorage
 CKE	Ferndale Resort Seaplane Base	America/Los_Angeles
 CKF	Chongqing Shapingba West Railway Station	Asia/Shanghai
@@ -1736,7 +1736,7 @@ CVT	Coventry Airport	Europe/London
 CVU	Corvo Airport	Atlantic/Azores
 CWA	Central Wisconsin Airport	America/Chicago
 CWB	Curitiba Airport	America/Sao_Paulo
-CWC	Chernivtsi Airport	Europe/Uzhgorod
+CWC	Chernivtsi Airport	Europe/Kyiv
 CWF	Chennault International Airport	America/Chicago
 CWI	Clinton Municipal Airport	America/Chicago
 CWJ	Cangyuan Washan Airport	Asia/Shanghai
@@ -2007,7 +2007,7 @@ DNF	Martubah Airport	Africa/Tripoli
 DNG	Doogan Airport	Australia/Perth
 DNH	Dunhuang Airport	Asia/Shanghai
 DNI	Wad Madani Airport	Africa/Khartoum
-DNK	Dnipro International Airport	Europe/Zaporozhye
+DNK	Dnipro International Airport	Europe/Kyiv
 DNL	Daniel Field Airport	America/New_York
 DNM	Shark Bay Airport	Australia/Perth
 DNN	Dalton Municipal Airport	America/New_York
@@ -2030,7 +2030,7 @@ DOF	Dora Bay	America/Juneau
 DOG	Dongola Airport	Africa/Khartoum
 DOH	Doha International Airport	Asia/Qatar
 DOI	Doini	Pacific/Port_Moresby
-DOK	Donetsk International Airport	Europe/Zaporozhye
+DOK	Donetsk International Airport	Europe/Kyiv
 DOL	Deauville – Saint-Gatien Airport	Europe/Paris
 DOM	Melville Hall Airport	America/Dominica
 DON	Dos Lagunas Airport	America/Guatemala
@@ -2361,7 +2361,7 @@ EQS	Esquel Airport	America/Argentina/Catamarca
 ERA	Erigavo Airport	Africa/Mogadishu
 ERB	Ernabella Airport	Australia/Adelaide
 ERC	Erzincan Airport	Europe/Istanbul
-ERD	Berdiansk	Europe/Zaporozhye
+ERD	Berdiansk	Europe/Kyiv
 ERE	Erave	Pacific/Port_Moresby
 ERF	Erfurt–Weimar Airport	Europe/Berlin
 ERG	Yerbogachen Airport	Asia/Irkutsk
@@ -2924,7 +2924,7 @@ GMC	Guerima	America/Bogota
 GMD	Ben Slimane Airport	Africa/Casablanca
 GME	Gomel Airport	Europe/Minsk
 GMI	Gasmata Island Airport	Pacific/Port_Moresby
-GML	Hostomel	Europe/Kiev
+GML	Hostomel	Europe/Kyiv
 GMM	Gamboma Airport	Africa/Brazzaville
 GMN	Greymouth Airport	Pacific/Auckland
 GMO	Gombe Lawanti International Airport	Africa/Lagos
@@ -3053,7 +3053,7 @@ GTW	Holešov Airport (historical)	Europe/Prague
 GTY	Gettysburg	America/New_York
 GTZ	Grumeti River	Africa/Dar_es_Salaam
 GUA	La Aurora International Airport	America/Guatemala
-GUB	Guerrero Negro Airport	America/Tijuana
+GUB	Guerrero Negro Airport	America/Mazatlan
 GUC	Gunnison	America/Denver
 GUD	Goundam Airport	Africa/Bamako
 GUE	Guriaso	Pacific/Port_Moresby
@@ -3315,7 +3315,7 @@ HMB	Sohag International Airport	Africa/Cairo
 HME	Oued Irara-Krim Belkacem Airport	Africa/Algiers
 HMG	Hermannsburg	Australia/Darwin
 HMI	Hami Airport	Asia/Urumqi
-HMJ	Khmelnytskyi Airport	Europe/Kiev
+HMJ	Khmelnytskyi Airport	Europe/Kyiv
 HMN	Holloman Air Force Base	America/Denver
 HMO	General Ignacio Pesqueira García International Airport	America/Hermosillo
 HMR	Stafsberg Airport	Europe/Oslo
@@ -3385,7 +3385,7 @@ HRF	Hoarafushi Airport	Indian/Maldives
 HRG	Hurghada International Airport	Africa/Cairo
 HRI	Hambantota International Airport	Asia/Colombo
 HRJ	Chaurjhari	Asia/Kathmandu
-HRK	Kharkiv International Airport	Europe/Zaporozhye
+HRK	Kharkiv International Airport	Europe/Kyiv
 HRL	Rio Grande Valley International Airport	America/Chicago
 HRM	Hassi R'Mel Airport	Africa/Algiers
 HRN	Heron Island Seaplane Base	Australia/Brisbane
@@ -3548,14 +3548,14 @@ IDY	Ile d'Yeu	Europe/Paris
 IEG	Babimost	Europe/Warsaw
 IEJ	Iejima Airport	Asia/Tokyo
 IES	Riesa Göhlis Airport	Europe/Berlin
-IEV	Kyiv Zhuliany International Airport	Europe/Kiev
+IEV	Kyiv Zhuliany International Airport	Europe/Kyiv
 IFA	Iowa Falls Municipal Airport	America/Chicago
 IFF	Iffley Airport	Australia/Brisbane
 IFH	Hesa Airport	Asia/Tehran
 IFJ	Ísafjörður Airport	Atlantic/Reykjavik
 IFL	Innisfail Aerodrome	Australia/Brisbane
 IFN	Isfahan International Airport	Asia/Tehran
-IFO	Ivano-Frankivsk International Airport	Europe/Uzhgorod
+IFO	Ivano-Frankivsk International Airport	Europe/Kyiv
 IFP	Laughlin/Bullhead International Airport	America/Phoenix
 IFU	Ifuru Island Airport	Indian/Maldives
 IGA	Inagua	America/Nassau
@@ -4097,7 +4097,7 @@ KBL	Hamid Karzai International Airport	Asia/Kabul
 KBM	Kabwum Airport	Pacific/Port_Moresby
 KBN	Tunta Airport	Africa/Lubumbashi
 KBO	Kabalo Airport	Africa/Lubumbashi
-KBP	Kyiv Boryspil International Airport	Europe/Kiev
+KBP	Kyiv Boryspil International Airport	Europe/Kyiv
 KBQ	Kasungu Airport	Africa/Blantyre
 KBR	Kota Bharu Airport	Asia/Kuala_Lumpur
 KBS	Bo Airport	Africa/Freetown
@@ -4123,7 +4123,7 @@ KCL	Chignik Lagoon Airport	America/Anchorage
 KCM	Kahramanmaraş Airport	Europe/Istanbul
 KCN	Chernofski Harbor Seaplane Base	America/Adak
 KCO	Cengiz Topel Naval Air Station	Europe/Istanbul
-KCP	Kamianets Podilsk	Europe/Kiev
+KCP	Kamianets Podilsk	Europe/Kyiv
 KCQ	Chignik Lake Airport	America/Anchorage
 KCR	Colorado Creek Mine	America/Anchorage
 KCS	Kings Creek Airport	Australia/Darwin
@@ -4203,7 +4203,7 @@ KGK	Koliganek Airport	America/Anchorage
 KGL	Kigali International Airport	Africa/Kigali
 KGM	Kungim Airstrip	Pacific/Port_Moresby
 KGN	Kasongo-Lunda Airport	Africa/Kinshasa
-KGO	Kropyvnytskyi Airport	Europe/Zaporozhye
+KGO	Kropyvnytskyi Airport	Europe/Kyiv
 KGP	Kogalym International Airport	Asia/Yekaterinburg
 KGQ	Kangersuatsiaq Heliport	America/Nuuk
 KGR	Kulgera Airport	Australia/Darwin
@@ -4218,7 +4218,7 @@ KGZ	Glacier Creek	America/Anchorage
 KHA	Khaneh Airport	Asia/Tehran
 KHC	Kerch Airport	Europe/Simferopol
 KHD	Khorramabad International Airport	Asia/Tehran
-KHE	Kherson International Airport	Europe/Kiev
+KHE	Kherson International Airport	Europe/Kyiv
 KHG	Kashgar Airport	Asia/Urumqi
 KHH	Kaohsiung International Airport	Asia/Taipei
 KHI	Karachi Airport	Asia/Karachi
@@ -4231,7 +4231,7 @@ KHQ	Kullorsuaq Heliport	America/Nuuk
 KHR	Kharkhorin Airport	Asia/Ulaanbaatar
 KHS	Khassab	Asia/Muscat
 KHT	Khost	Asia/Kabul
-KHU	Kremenchuk Airport	Europe/Kiev
+KHU	Kremenchuk Airport	Europe/Kyiv
 KHV	Khabarovsk Novy Airport	Asia/Vladivostok
 KHW	Khwai River Lodge	Africa/Gaborone
 KHX	Kihihi Airport	Africa/Kampala
@@ -4445,7 +4445,7 @@ KRM	Karanambo Airport	America/Guyana
 KRN	Kiruna Airport	Europe/Stockholm
 KRO	Kurgan Airport	Asia/Yekaterinburg
 KRP	Midtjyllands Airport	Europe/Copenhagen
-KRQ	Kramatorsk Airport	Europe/Zaporozhye
+KRQ	Kramatorsk Airport	Europe/Kyiv
 KRR	Krasnodar International Airport	Europe/Moscow
 KRS	Kristiansand Airport, Kjevik	Europe/Oslo
 KRT	Khartoum	Africa/Khartoum
@@ -4552,7 +4552,7 @@ KWB	Karimunjawa Airport	Asia/Jakarta
 KWD	Kawadjia CF	Africa/Bangui
 KWE	Guiyang Longdongbao International Airport	Asia/Shanghai
 KWF	Waterfall Seaplane Base	America/Juneau
-KWG	Kryvyi Rih/Lozuvatka International Airport	Europe/Zaporozhye
+KWG	Kryvyi Rih/Lozuvatka International Airport	Europe/Kyiv
 KWH	Khwahan Airport	Asia/Kabul
 KWI	Kuwait International Airport	Asia/Kuwait
 KWJ	Kwangju Ab	Asia/Seoul
@@ -5078,7 +5078,7 @@ LWK	Lerwick Tingwall Airport	Europe/London
 LWL	Wells	America/Los_Angeles
 LWM	Lawrence Municipal Airport	America/New_York
 LWN	Shirak Airport	Asia/Yerevan
-LWO	Lviv International Airport	Europe/Uzhgorod
+LWO	Lviv International Airport	Europe/Kyiv
 LWR	Leeuwarden Air Base	Europe/Amsterdam
 LWS	Lewiston–Nez Perce County Airport	America/Los_Angeles
 LWT	Lewistown Municipal Airport	America/Denver
@@ -5537,7 +5537,7 @@ MPS	Mount Pleasant Regional Airport	America/Chicago
 MPT	Maliana	Asia/Dili
 MPU	Mapua	Pacific/Port_Moresby
 MPV	Montpelier	America/New_York
-MPW	Mariupol International Airport	Europe/Zaporozhye
+MPW	Mariupol International Airport	Europe/Kyiv
 MPX	Miyanmin	Pacific/Port_Moresby
 MPY	Maripasoula Airport	America/Cayenne
 MPZ	Mount Pleasant Municipal Airport	America/Chicago
@@ -5739,7 +5739,7 @@ MXN	Morlaix – Ploujean Airport	Europe/Paris
 MXO	Monticello Regional Airport	America/Chicago
 MXP	Milano Malpensa Airport	Europe/Rome
 MXQ	Aeródromo de Lorenzo	America/Bahia
-MXR	Myrhorod Airport	Europe/Kiev
+MXR	Myrhorod Airport	Europe/Kyiv
 MXS	Maota Airport	Pacific/Apia
 MXT	Maintirano Airport	Indian/Antananarivo
 MXU	Mullewa Airport	Australia/Perth
@@ -5850,7 +5850,7 @@ NCJ	Sunchales Airport	America/Argentina/Cordoba
 NCL	Newcastle International Airport	Europe/London
 NCN	Chenega Bay Airport	America/Anchorage
 NCO	Quonset State Airport	America/New_York
-NCP	Luzon Is	Asia/Manila
+NCP	Luzon Island Cubi Pt NAS	Asia/Manila
 NCR	San Carlos	America/Managua
 NCS	Newcastle Airport	Africa/Johannesburg
 NCT	Nicoya Airport	America/Costa_Rica
@@ -5987,7 +5987,7 @@ NLP	Nelspruit Airport	Africa/Johannesburg
 NLS	Nicholson Airport	Australia/Perth
 NLT	Nalati Airport	Asia/Urumqi
 NLU	Santa Lucía Air Force Base Num 1	America/Mexico_City
-NLV	Mykolaiv Airport	Europe/Kiev
+NLV	Mykolaiv Airport	Europe/Kyiv
 NMA	Namangan Airport	Asia/Tashkent
 NMB	Daman Airport	Asia/Kolkata
 NMC	Norman's Cay Airport	America/Nassau
@@ -6225,7 +6225,7 @@ ODM	Oakland	America/New_York
 ODN	Long Seridan Airport	Asia/Kuching
 ODO	Bodaybo Airport	Asia/Irkutsk
 ODR	Ord River Airport	Australia/Perth
-ODS	Odesa International Airport	Europe/Kiev
+ODS	Odesa International Airport	Europe/Kyiv
 ODW	AJ Eisenberg Airport	America/Los_Angeles
 ODY	Oudomsay Airport	Asia/Vientiane
 OEA	O'Neal Airport	America/Chicago
@@ -6505,7 +6505,7 @@ OYS	Yosemite National Park	America/Los_Angeles
 OZA	Ozona TX US Municipal	America/Chicago
 OZC	Ozamiz City Airport	Asia/Manila
 OZG	Zagora Airport	Africa/Casablanca
-OZH	Zaporizhia International Airport	Europe/Zaporozhye
+OZH	Zaporizhia International Airport	Europe/Kyiv
 OZI	Bobadilla ES Railway Station	Europe/Madrid
 OZL	Órzola Ferry Port	Atlantic/Canary
 OZP	Morón Air Base	Europe/Madrid
@@ -6767,7 +6767,7 @@ PLR	St Clair County Airport	America/Chicago
 PLS	Providenciales International Airport	America/Grand_Turk
 PLT	Plato	America/Bogota
 PLU	Carlos Drummond de Andrade Airport	America/Sao_Paulo
-PLV	Poltava - Suprunivka Airport	Europe/Zaporozhye
+PLV	Poltava - Suprunivka Airport	Europe/Kyiv
 PLW	Mutiara SIS Al-Jufrie Airport	Asia/Makassar
 PLX	Semey Airport	Asia/Almaty
 PLY	Plymouth Municipal Airport	America/Indiana/Indianapolis
@@ -7418,9 +7418,9 @@ QOB	Ansbach-Petersdorf	Europe/Berlin
 QOC	Osasco	America/Sao_Paulo
 QOD	Osvaldo Cruz SP BR Off	Indian/Antananarivo
 QOE	Nörvenich Air Base	Europe/Berlin
-QOF	Darnytsia Bus Station	Europe/Kiev
+QOF	Darnytsia Bus Station	Europe/Kyiv
 QOG	Homburg DE Off	Europe/Berlin
-QOH	Premier Hotel Rus Bus Stop	Europe/Kiev
+QOH	Premier Hotel Rus Bus Stop	Europe/Kyiv
 QOI	Cotia SP BR Off	Indian/Antananarivo
 QOJ	São Borja Airport	America/Sao_Paulo
 QOK	Oksfjord NO	Europe/Oslo
@@ -8072,7 +8072,7 @@ RWB	Rowan Bay	America/Sitka
 RWF	Redwood Falls	America/Chicago
 RWI	Rocky Mount	America/New_York
 RWL	Rawlins Municipal Airport	America/Denver
-RWN	Rivne International Airport	Europe/Kiev
+RWN	Rivne International Airport	Europe/Kyiv
 RWP	Rawalpindi Railway Station	Asia/Karachi
 RWS	Sumaré Airport	America/Sao_Paulo
 RXA	Rawdah	Asia/Aden
@@ -8219,7 +8219,7 @@ SER	Seymour	America/Indiana/Indianapolis
 SES	Selma	America/Chicago
 SET	San Esteban	America/Tegucigalpa
 SEU	Seronera Airport	Africa/Dar_es_Salaam
-SEV	Sievierodonetsk Airport	Europe/Zaporozhye
+SEV	Sievierodonetsk Airport	Europe/Kyiv
 SEW	Siwa Oasis North Airport	Africa/Cairo
 SEX	Ramstein	Europe/Berlin
 SEY	Sélibaby Airport	Africa/Nouakchott
@@ -9083,7 +9083,7 @@ TNH	Tonghua Sanyuanpu Airport	Asia/Shanghai
 TNI	Satna Airport	Asia/Kolkata
 TNJ	Raja Haji Fisabilillah International Airport	Asia/Jakarta
 TNK	Tununak Airport	America/Nome
-TNL	Ternopil International Airport	Europe/Uzhgorod
+TNL	Ternopil International Airport	Europe/Kyiv
 TNM	Teniente R. Marsh Airport	Antarctica/Palmer
 TNN	Tainan Airport	Asia/Taipei
 TNO	Tamarindo Airport	America/Costa_Rica
@@ -9342,7 +9342,7 @@ UCA	Utica	America/New_York
 UCB	Ulanqab Airport	Asia/Shanghai
 UCC	Yucca Airstrip	America/Los_Angeles
 UCE	Eunice LA US	America/Chicago
-UCK	Lutsk Airport	Europe/Uzhgorod
+UCK	Lutsk Airport	Europe/Kyiv
 UCN	Buchanan Airport	Africa/Monrovia
 UCT	Ukhta Airport	Europe/Moscow
 UCY	Union City	America/Chicago
@@ -9351,7 +9351,7 @@ UDA	Undara Volcanic National Park	Australia/Brisbane
 UDD	Bermuda Dunes Airport	America/Los_Angeles
 UDE	Volkel Airport	Europe/Amsterdam
 UDI	Uberlândia–Ten. Cel. Av. César Bombonato Airport	America/Sao_Paulo
-UDJ	Uzhhorod	Europe/Uzhgorod
+UDJ	Uzhhorod	Europe/Kyiv
 UDN	Udine-Campoformido Airport	Europe/Rome
 UDO	Udomxay	Asia/Vientiane
 UDR	Maharana Pratap international Airport	Asia/Kolkata
@@ -9438,7 +9438,7 @@ UMR	RAAF Woomera Airfield	Australia/Adelaide
 UMS	Ust-Maya Airport	Asia/Vladivostok
 UMT	Umiat Airport	America/Anchorage
 UMU	Umuarama Airport	America/Sao_Paulo
-UMY	Sumy Airport	Europe/Kiev
+UMY	Sumy Airport	Europe/Kyiv
 UMZ	Mena Intermountain Municipal Airport	America/Chicago
 UNA	Una-Comandatuba Airport	America/Bahia
 UNC	Unguia	America/Bogota
@@ -9638,7 +9638,7 @@ VII	Vinh Airport	Asia/Bangkok
 VIJ	Virgin Gorda Airport	America/Tortola
 VIK	Kavik	America/Anchorage
 VIL	Dakhla Airport	Africa/Casablanca
-VIN	Havryshivka International Airport	Europe/Kiev
+VIN	Havryshivka International Airport	Europe/Kyiv
 VIO	Vitoria-Gasteiz Railway Station	Europe/Madrid
 VIQ	Viqueque Airport	Asia/Dili
 VIR	Virginia Aerodrome	Africa/Johannesburg
@@ -9724,7 +9724,7 @@ VRY	Værøy Heliport	Europe/Oslo
 VSA	Carlos Rovirosa Pérez International Airport	America/Merida
 VSE	Viseu Airport	Europe/Lisbon
 VSF	Springfield	America/New_York
-VSG	Luhansk International Airport	Europe/Zaporozhye
+VSG	Luhansk International Airport	Europe/Kyiv
 VSK	Vista Field	America/Los_Angeles
 VSN	Venlo Railway Station	Europe/Amsterdam
 VSO	Phuoclong	Asia/Ho_Chi_Minh
@@ -10927,7 +10927,7 @@ YLP	Mingan	America/Toronto
 YLQ	La Tuque Airport	America/Toronto
 YLR	Leaf Rapids Airport	America/Winnipeg
 YLS	Lebel-sur-Quévillon Airport	America/Toronto
-YLT	Alert Airport	America/Pangnirtung
+YLT	Alert Airport	America/Iqaluit
 YLV	Yevlakh Airport	Asia/Baku
 YLW	Kelowna International Airport	America/Vancouver
 YLX	Fumian District	Asia/Shanghai
@@ -11036,7 +11036,7 @@ YQN	Nakina Airport	America/Toronto
 YQQ	Comox Valley Airport	America/Vancouver
 YQR	Regina	America/Regina
 YQS	St. Thomas Municipal Airport	America/Toronto
-YQT	Thunder Bay International Airport	America/Thunder_Bay
+YQT	Thunder Bay International Airport	America/Toronto
 YQU	Grande Prairie Airport	America/Edmonton
 YQV	Yorkton Municipal Airport	America/Regina
 YQW	North Battleford Airport	America/Regina
@@ -11131,8 +11131,8 @@ YVE	Vernon Regional Airport	America/Vancouver
 YVG	Vermillon Airport	America/Edmonton
 YVH	Hjerkinn Station	Europe/Oslo
 YVK	Koppang Railway Station	Europe/Oslo
-YVM	Qikiqtarjuaq Airport	America/Pangnirtung
-YVN	Cape Dyer	America/Pangnirtung
+YVM	Qikiqtarjuaq Airport	America/Iqaluit
+YVN	Cape Dyer	America/Iqaluit
 YVO	Val-d'Or	America/Toronto
 YVP	Kuujjuaq Airport	America/Toronto
 YVQ	Norman Wells Airport	America/Yellowknife
@@ -11167,7 +11167,7 @@ YXJ	Fort St. John Airport	America/Dawson_Creek
 YXK	Rimouski Airport	America/Toronto
 YXL	Sioux Lookout Airport	America/Winnipeg
 YXN	Whale Cove Airport	America/Rankin_Inlet
-YXP	Pangnirtung Airport	America/Pangnirtung
+YXP	Pangnirtung Airport	America/Iqaluit
 YXQ	Beaver Creek	America/Whitehorse
 YXR	Earlton (Timiskaming Regional) Airport	America/Toronto
 YXS	Prince George Airport	America/Vancouver
@@ -11725,7 +11725,7 @@ ZTN	Philadelphia PA US Trenton Rai	America/New_York
 ZTO	Boston MA US South Railway Sta	America/New_York
 ZTP	Itapetininga	America/Sao_Paulo
 ZTQ	Sbb Rail Ch Zone 2 CH	Europe/Zurich
-ZTR	Zhytomyr Airport	Europe/Kiev
+ZTR	Zhytomyr Airport	Europe/Kyiv
 ZTS	Tahsis Seaplane Base	America/Vancouver
 ZTT	Cottbus DE Railway Station	Europe/Berlin
 ZTU	Zaqatala International Airport	Asia/Baku
