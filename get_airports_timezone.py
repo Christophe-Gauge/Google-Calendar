@@ -23,7 +23,7 @@ __license__ = "GNU General Public License v3.0"
 
 URL = 'https://raw.githubusercontent.com/opentraveldata/opentraveldata/master/opentraveldata/optd_por_public_all.csv'
 
-df = pd.read_csv(URL, sep = "^", usecols=["iata_code", "name", "timezone"], index_col = False)
+df = pd.read_csv(URL, sep = "^", usecols=["iata_code", "name", "timezone"], index_col = False, low_memory=False)
 df = df[df.iata_code.notnull()]
 df.reset_index(drop=True, inplace = True)
 df.drop_duplicates(subset ="iata_code", keep = "last", inplace = True)
