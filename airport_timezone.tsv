@@ -64,7 +64,7 @@ ACK	Nantucket Memorial Airport	America/New_York
 ACL	Aguaclara Airport	America/Bogota
 ACM	Puerto Arica Airport	America/Bogota
 ACN	Ciudad Acuña New International Airport	America/Matamoros
-ACO	Locarno Airport	Europe/Zurich
+ACO	Cobano Airport	America/Costa_Rica
 ACP	Marāgheh	Asia/Tehran
 ACQ	Estación de Autobuses de Alicante	Europe/Madrid
 ACR	Araracuara Airport	America/Bogota
@@ -202,7 +202,7 @@ AIU	Enua Airport	Pacific/Rarotonga
 AIV	Aliceville	America/Chicago
 AIW	Ai Ais	Africa/Windhoek
 AIX	Aix les Bains Bus Station	Europe/Paris
-AIY	Atlantic City Municipal Airport-Bader Field	America/New_York
+AIY	Aracuai Airport	America/Sao_Paulo
 AIZ	Lee C Fine Memorial Airport	America/Chicago
 AJA	Ajaccio Napoleon Bonaparte Airport	Europe/Paris
 AJF	Al Jouf Domestic Airport	Asia/Riyadh
@@ -344,8 +344,9 @@ APB	Apolo Airport	America/La_Paz
 APC	Napa County Airport	America/Los_Angeles
 APF	Naples Municipal Airport	America/New_York
 APG	Phillips Army Airfield	America/New_York
-APH	A P Hill Army Airfield (Fort A P Hill)	America/New_York
+APH	Fort Walker Airfield	America/New_York
 API	Gomez Nino	America/Bogota
+APJ	Ali Pulan Airport	Asia/Shanghai
 APK	Apataki Airport	Pacific/Tahiti
 APL	Nampula Airport	Africa/Maputo
 APN	Alpena County Regional Airport	America/Detroit
@@ -702,7 +703,7 @@ BFG	Glen Canyon National Recreation Area	America/Denver
 BFH	Parana Airport	America/Sao_Paulo
 BFI	King County International Airport	America/Los_Angeles
 BFJ	Bijie Airport	Asia/Shanghai
-BFK	Buckley Air Force Base	America/Denver
+BFK	Buckley Space Force Base	America/Denver
 BFL	Meadows Field Airport	America/Los_Angeles
 BFM	Mobile Downtown Airport	America/Chicago
 BFN	Bloemfontein	Africa/Johannesburg
@@ -1935,6 +1936,7 @@ DHR	De Kooy	Europe/Amsterdam
 DHS	Santander Bus Station	Europe/Madrid
 DHT	Dalhart Municipal Airport	America/Chicago
 DHU	Zhuzhou West Railway Station	Asia/Shanghai
+DHX	Dhoho International Airport	Asia/Jakarta
 DIA	Doha International Airport	Asia/Qatar
 DIB	Dibrugarh Airport	Asia/Kolkata
 DIC	Dili	Asia/Dili
@@ -4606,7 +4608,7 @@ KXO	Kisoro Airport	Africa/Kampala
 KXR	Karoola Airport	Pacific/Bougainville
 KXU	Katiu Airport	Pacific/Tahiti
 KYA	Konya Airport	Europe/Istanbul
-KYB	Yangoonabie Airport	Australia/Adelaide
+KYB	Ken's Bore	Australia/Perth
 KYD	Lan Yu	Asia/Taipei
 KYE	Rene Mouawad Air Base	Asia/Beirut
 KYF	Yeelirrie Airport	Australia/Perth
@@ -7120,7 +7122,7 @@ QBF	Vail Eagle CO US Vail Bus Stat	America/Denver
 QBG	Pančevo Airport	Europe/Belgrade
 QBH	Levallois-Perret	Europe/Paris
 QBI	Bitola	Europe/Skopje
-QBJ	Bordj Bou Arréridj	Africa/Algiers
+QBJ	Bordj Bou Arreridj	Africa/Algiers
 QBK	Betim	America/Sao_Paulo
 QBL	Bani Walid Airport	Africa/Tripoli
 QBM	Bourg St Maurice FR Bourg St M	Europe/Paris
@@ -7413,7 +7415,7 @@ QMM	Massa Cinquale Airport	Europe/Rome
 QMN	Mbabane	Africa/Mbabane
 QMO	Mons BE Railway Station	Europe/Brussels
 QMP	Macon GA US Flightlink Bus Sta	America/New_York
-QMQ	Murzuq	Africa/Tripoli
+QMQ	Murzuk	Africa/Tripoli
 QMR	Marsala	Europe/Rome
 QMS	Masan KR Off	Asia/Seoul
 QMU	Moutiers FR Moutiers	Europe/Paris
@@ -7958,6 +7960,7 @@ RMI	Federico Fellini International Airport	Europe/Rome
 RMK	Renmark Airport	Australia/Adelaide
 RML	Ratmalana Airport	Asia/Colombo
 RMN	Rumginae Airport	Pacific/Port_Moresby
+RMO	Chişinău International Airport	Europe/Chisinau
 RMP	Rampart Airport	America/Anchorage
 RMQ	Taichung Airport	Asia/Taipei
 RMS	Ramstein	Europe/Berlin
@@ -8090,7 +8093,7 @@ RUU	Ruti	Pacific/Port_Moresby
 RUV	Rubelsanto	America/Guatemala
 RUY	Ruinas de Copan Airport	America/Tegucigalpa
 RVA	Farafangana	Indian/Antananarivo
-RVC	Cestos City	Africa/Monrovia
+RVC	River Cess	Africa/Monrovia
 RVD	General Leite de Castro Airport	America/Sao_Paulo
 RVE	Los Colonizadores Airport	America/Bogota
 RVH	Saint Petersburg Rzhevka Airport	Europe/Moscow
@@ -8983,7 +8986,7 @@ THQ	Tianshui Airport	Asia/Shanghai
 THR	Mehrabad International Airport	Asia/Tehran
 THS	Sukhothai Airport	Asia/Bangkok
 THT	Tamchakett Airport	Africa/Nouakchott
-THU	Thule Air Base	America/Thule
+THU	Pituffik Space Base	America/Thule
 THV	York Airport	America/New_York
 THW	Trincomalee Harbour Seaplane Base	Asia/Colombo
 THX	Turukhansk Airport	Asia/Krasnoyarsk
@@ -9613,7 +9616,7 @@ VBL	Anshan West Railway Station	Asia/Shanghai
 VBM	Blue Mountain Airport	America/Anchorage
 VBP	Bokpyin Airport	Asia/Yangon
 VBR	Vyborg Railway Station	Europe/Moscow
-VBS	Verona Brescia Airport	Europe/Rome
+VBS	Brescia Airport	Europe/Rome
 VBT	Vigo Bus Station	Europe/Madrid
 VBV	Vanuabalavu Airport	Pacific/Fiji
 VBY	Visby Airport	Europe/Stockholm
@@ -11930,7 +11933,7 @@ ZZO	Zonalnoye Airport	Asia/Sakhalin
 ZZP	Požarevac	Europe/Belgrade
 ZZQ	Cheung Sha Wan	Asia/Hong_Kong
 ZZR	Kherrata	Africa/Algiers
-ZZS	M’sila	Africa/Algiers
+ZZS	M'Sila	Africa/Algiers
 ZZT	Taher	Africa/Algiers
 ZZU	Mzuzu Airport	Africa/Blantyre
 ZZV	Zanesville Municipal Airport	America/New_York
