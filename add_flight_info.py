@@ -21,6 +21,8 @@ import os.path
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
+import pytz
+from datetime import datetime, timedelta
 
 
 __author__ = "Christophe Gauge"
@@ -35,7 +37,6 @@ __license__ = "GNU General Public License v3.0"
 SCOPES = ['https://www.googleapis.com/auth/calendar']
 
 
-flight_description = 'Confirmation number: ABCDEF\neTicket number: 123456789'
 my_flights = """
 - name: UA1813
   departure:
@@ -44,6 +45,8 @@ my_flights = """
   arrival:
     airport: IAH
     time: Sat, May 08, 2021 06:58 PM
+  confirmation:
+    ABCDEF 
 - name: UA46
   departure:
     airport: IAH
@@ -51,6 +54,8 @@ my_flights = """
   arrival:
     airport: FRA
     time: Sat, May 09, 2021 12:20 PM
+  confirmation:
+    ABCDEF 
 - name: LH1092
   departure:
     airport: FRA
@@ -58,6 +63,8 @@ my_flights = """
   arrival:
     airport: BIA
     time: Sun, May 09, 2021 06:00 PM
+  confirmation:
+    ABCDEF 
 - name: LH2281
   departure:
     airport: BIA
@@ -65,6 +72,8 @@ my_flights = """
   arrival:
     airport: MUC
     time: Sat, Jul 10, 2021 06:40 PM
+  confirmation:
+    ABCDEF 
 - name: UA107
   departure:
     airport: MUC
@@ -72,6 +81,8 @@ my_flights = """
   arrival:
     airport: IAD
     time: Sun, Jul 11, 2021 03:10 PM
+  confirmation:
+    ABCDEF 
 - name: UA2437
   departure:
     airport: IAD
@@ -79,6 +90,8 @@ my_flights = """
   arrival:
     airport: TPA
     time: Sun, Jul 11, 2021 07:14 PM
+  confirmation:
+    ABCDEF 
 """
 flights = yaml.safe_load(my_flights)
 
@@ -120,7 +133,17 @@ def main():
   for flight in flights:
       print(flight['name'])
       print(flight['departure']['airport'], airports[flight['departure']['airport']])
-      flight_title = f"{flight['name']} - {airports[flight['departure']['airport']]['airport_name']} ({flight['departure']['airport']}) - {airports[flight['arrival']['airport']]['airport_name']} ({flight['arrival']['airport']})"
+      print(flight['arrival']['airport'], airports[flight['arrival']['airport']])
+      flight_title = f"{flight['name']} - {flight['departure']['airport']} - {flight['arrival']['airport']}"
+      date1 = parser.parse(flight['departure']['time']).replace(tzinfo=pytz.timezone(airports[flight['departure']['airport']]['timezone']))
+      date2 = parser.parse(flight['arrival']['time']).replace(tzinfo=pytz.timezone(airports[flight['arrival']['airport']]['timezone']))
+      delta = date2 - date1
+      days, seconds = delta.days, delta.seconds
+      hours = days * 24 + seconds // 3600
+      minutes = (seconds % 3600) // 60
+  
+      print(f"The difference between {date1} and {date2} is {hours:.0f} hours {minutes:.0f} minutes.")
+      flight_description = f"Booking: {flight['confirmation']}\n{airports[flight['departure']['airport']]['airport_name']} ({flight['departure']['airport']}) - {airports[flight['arrival']['airport']]['airport_name']} ({flight['arrival']['airport']})\nDuration: {hours:.0f} hours {minutes:.0f} minutes."
 
       my_event = {
           'summary': flight_title,

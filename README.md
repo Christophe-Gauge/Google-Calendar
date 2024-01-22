@@ -50,7 +50,7 @@ It uses the [airport_timezone.tsv](https://github.com/Christophe-Gauge/Google-Ca
 
 Additional requirements:
 ```
-pip3 install pyaml
+pip3 install pyaml pytz
 ```
 
 
